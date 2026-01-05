@@ -37,15 +37,3 @@ Strengthen them with buffs before each battle via the Shop.
 Tarot Cards: grant permanent boosts for your run.
 
 Buff Cards: provide temporary effects to help you during battles.
-
-#### Rarity levels:
-
-<color=#3721BE>Common</color>
-
-<color=#46C138>Rare</color>
-
-<color=#DB3B4F>Epic</color>
-
-<color=#00FFFA>Legendary</color>
-
-Increase your Luck with cards to find better rarities.
